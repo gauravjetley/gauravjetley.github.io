@@ -12,10 +12,10 @@ College of Business, Colorado State University
 
 I study how health information technologies and analytics shape clinical workflows, operational outcomes, and equity in healthcare delivery. My work uses econometrics, causal machine learning, and natural language processing to analyze large scale healthcare data, including EHR audit logs, and to develop interpretable measures of workflow, collaboration, and information quality.
 
-**Profiles:**  
-Google Scholar: https://scholar.google.com/citations?user=Pg1h4coAAAAJ&hl=en  
-ResearchGate: https://www.researchgate.net/profile/Gaurav-Jetley  
-CSU profile: https://biz.colostate.edu/about/directory/jetley
+**Profiles**  
+[Google Scholar](https://scholar.google.com/citations?user=Pg1h4coAAAAJ&hl=en)  
+[ResearchGate](https://www.researchgate.net/profile/Gaurav-Jetley?ev=hdr_xprf)  
+[CSU Department Profile](https://biz.colostate.edu/about/directory/jetley)
 
 ## Selected publications
 1. Jetley, G., and Zhang, H. (2024). Racial Bias in Pain Measurement Frequency in ICU and its Impact on Early Readmission. *Production and Operations Management*.
