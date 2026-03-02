@@ -3,6 +3,8 @@ layout: default
 title: Home
 ---
 
+[Home](/) | [Research](/research) | [Publications](/publications) | [Teaching](/teaching)
+
 # Your Name
 
 Assistant Professor of Information Systems, Colorado State University
