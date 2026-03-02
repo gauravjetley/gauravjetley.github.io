@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
-title: Gaurav Jetley, Ph.D.
-description: Assistant Professor of Computer Information Systems in the College of Business at Colorado State University
+title: Gaurav Jetley
+description: Assistant Professor of Computer Information Systems, Colorado State University
+logo: /assets/img/headshot.jpg
+show_downloads: false
