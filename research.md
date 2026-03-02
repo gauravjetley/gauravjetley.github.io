@@ -3,6 +3,8 @@ layout: default
 title: Research
 ---
 
+[Home](/) | [Research](/research) | [Publications](/publications) | [Teaching](/teaching)
+
 # Research
 
 ## Stream 1: Health IT and clinical work
