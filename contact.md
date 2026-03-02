@@ -7,5 +7,5 @@ title: Contact
 
 # Contact
 
-Email: gaurav.jetley@colostate.edu  
+Email: [gaurav.jetley@colostate.edu](mailto:gaurav.jetley@colostate.edu)  
 Office: Rockwell 154, Fort Collins, CO 80523
