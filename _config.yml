@@ -3,3 +3,6 @@ title: Gaurav Jetley
 description: Assistant Professor of Computer Information Systems, Colorado State University
 logo: /assets/img/headshot.jpg
 show_downloads: false
+markdown: kramdown
+kramdown:
+  input: GFM
