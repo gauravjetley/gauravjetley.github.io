@@ -18,11 +18,12 @@ I study how health information technologies and analytics shape clinical workflo
 [CSU Department Profile](https://biz.colostate.edu/about/directory/jetley)
 
 ## Selected publications
-1. Jetley, G., and Zhang, H. (2024). Racial Bias in Pain Measurement Frequency in ICU and its Impact on Early Readmission. *Production and Operations Management*.
-2. Jetley, G., and Zhang, H. (2025). Impacts of Staff Collaborations on the Service Time for Inpatient Stays: An Analysis using EHR Audit Logs and Dynamic Graphs. *Manufacturing and Service Operations Management*.
-3. Jetley, G., and Zhang, H. (2019). Electronic Health Records in IS Research: Quality Issues, Essential Thresholds and Remedial Actions. *Decision Support Systems*.
-4. Jetley, G., and Shivendu, S. (2026). Should amazon display product Q&As more prominently? The informational role of Q&As and reviews, and the moderating effect of product involvement. *Decision Support Systems*.
-5. Vijayasarathy, L., and Jetley, G. (2025). Analytics Competence and IT Business Value: The Role of Metric Ambidexterity. *Journal of Business Analytics*.
+- Jetley, G., and Zhang, H. (2026). The Impacts of Electronic Health Record Note Usage by Physicians on Efficiency and Quality of Care: An Analysis using EHR Audit Logs. *Production and Operations Management*.
+- Jetley, G., and Shivendu, S. (2026). Should amazon display product Q&As more prominently? The informational role of Q&As and reviews, and the moderating effect of product involvement. *Decision Support Systems*.
+- Jetley, G., and Zhang, H. (2025). Impacts of Staff Collaborations on the Service Time for Inpatient Stays: An Analysis using EHR Audit Logs and Dynamic Graphs. *Manufacturing and Service Operations Management*.
+- Vijayasarathy, L., and Jetley, G. (2025). Analytics Competence and IT Business Value: The Role of Metric Ambidexterity. *Journal of Business Analytics*.
+- Jetley, G., and Zhang, H. (2024). Racial Bias in Pain Measurement Frequency in ICU and its Impact on Early Readmission. *Production and Operations Management*.
+- Jetley, G., and Zhang, H. (2019). Electronic Health Records in IS Research: Quality Issues, Essential Thresholds and Remedial Actions. *Decision Support Systems*.
 
 ## Dissertation
 Jetley, G. (2020). *Complexities of Data, Tasks and Workflows in Health IT Management* (PhD Dissertation, University of South Florida).  
